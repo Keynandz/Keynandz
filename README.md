@@ -1,4 +1,4 @@
-<img src="golang-gopher.svg" width="300px" min-width="300px" max-width="300px" align="right" alt="Golang">
+<img src="go-8.svg" width="300px" min-width="300px" max-width="300px" align="right" alt="Golang">
 
 ### Hello World! I'm Keynandz! 👋
 ---
