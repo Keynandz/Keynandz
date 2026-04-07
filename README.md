@@ -5,3 +5,5 @@
 ### :fire: Coding Journey:
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Keynandz&theme=whatsapp-dark2&mode=weekly)](https://streak-stats.demolab.com?user=Keynandz&theme=whatsapp-dark2&mode=weekly)
+
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Keynandz&layout=compact&theme=tokyonight)
