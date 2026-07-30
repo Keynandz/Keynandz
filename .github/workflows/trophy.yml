@@ -14,10 +14,15 @@ jobs:
   generate:
     permissions:
       contents: write
+    # Menurunkan versi ubuntu (opsional) jika error Node.js versi 24 masih berlanjut
     runs-on: ubuntu-latest
     timeout-minutes: 5
 
     steps:
+      # Langkah baru: Membuat folder dist sebelum action generate dijalankan
+      - name: Create dist directory
+        run: mkdir -p dist
+
       - name: generate trophy.svg
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
